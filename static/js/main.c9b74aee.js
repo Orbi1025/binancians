@@ -12452,7 +12452,7 @@
                 style: c.button,
                 onClick: () =>
                   window.open(
-                    "https://pancakeswap.finance/?outputCurrency=0x89681d466CC6419d740b71307B65b4e7AF8F6997",
+                    "https://pancakeswap.finance/swap?outputCurrency=0x603bF34f53E52cA7166cEd32C6564878428dB323",
                     "_blank"
                   ),
                 children: "BUY NOW",
@@ -12512,7 +12512,7 @@
                       style: c.hamburgerButton,
                       onClick: () =>
                         window.open(
-                          "https://pancakeswap.finance/?outputCurrency=0x89681d466CC6419d740b71307B65b4e7AF8F6997",
+                          "https://pancakeswap.finance/swap?outputCurrency=0x603bF34f53E52cA7166cEd32C6564878428dB323",
                           "_blank"
                         ),
                       children: "BUY NOW",
@@ -12899,7 +12899,7 @@
                 },
                 onClick: () =>
                   window.open(
-                    "https://dexscreener.com/bsc/0x5a4f56915034fc73eb63073c7e2424fec3c5b438",
+                    "https://dexscreener.com/bsc/0x603bF34f53E52cA7166cEd32C6564878428dB323",
                     "_blank"
                   ),
               }),
