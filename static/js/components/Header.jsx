@@ -37,7 +37,7 @@ const Header = () => {
   };
 
   const handleCopyCA = () => {
-    navigator.clipboard.writeText("0x89681d466CC6419d740b71307B65b4e7AF8F6997");
+    navigator.clipboard.writeText("0x603bF34f53E52cA7166cEd32C6564878428dB323");
     alert("Contract Address copied!");
   };
 
